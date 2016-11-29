@@ -1,0 +1,41 @@
+<div id="creation-photos">
+		<table>
+			<tbody>
+				<tr>
+					<td><img src="images/creation-un.jpg" alt="Exemple de création de jardin des Jardins de la Rianderie" width="600px"></td>
+					<td><img src="images/creation-deux.JPG" alt="Exemple de création de jardin des Jardins de la Rianderie" width="600px"></td>
+				</tr>
+				<tr>
+					<td><img src="images/creation-trois.JPG" alt="Exemple de création de jardin des Jardins de la Rianderie" width="600px"></td>
+					<td><img src="images/creation-quatre.jpg" alt="Exemple de création de jardin des Jardins de la Rianderie" width="600px"></td>
+				</tr>
+				<tr>
+					<td><img src="images/creation-cinq.jpg" alt="Exemple de création de terrasse des Jardins de la Rianderie" width="600px"></td>
+					<td><img src="images/creation-six.JPG" alt="Exemple de création de terrasse des Jardins de la Rianderie" width="600px"></td>
+				</tr>
+				<tr>
+					<td><img src="images/creation-sept.JPG" alt="Exemple de création de terrasse des Jardins de la Rianderie" width="600px"></td>
+					<td><img src="images/creation-huit.JPG" alt="Exemple de création de palissades des Jardins de la Rianderie" width="600px"></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id="entretien-photos">
+	<table>
+		<tbody>
+			<tr>
+				<td><img src="images/entretien-un.JPG" alt="Exemple d'entretien de jardin des Jardins de la Rianderie" width="600px"></td>
+				<td><img src="images/entretien-deux.JPG" alt="Exemple d'entretien de jardin des Jardins de la Rianderie" width="600px"></td>
+			</tr>
+			<tr>
+				<td><img src="images/entretien-trois.JPG" alt="Exemple d'entretien de jardin des Jardins de la Rianderie" width="600px"></td>
+				<td><img src="images/entretien-quatre.JPG" alt="Exemple d'entretien de jardin des Jardins de la Rianderie" width="600px"></td>
+			</tr>
+			<tr>
+				<td><img src="images/entretien-cinq.JPG" alt="Exemple d'entretien de jardin des Jardins de la Rianderie" width="600px"></td>
+				<td><img src="images/entretien-six.JPG" alt="Exemple d'entretien de jardin des Jardins de la Rianderie" width="600px"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

@@ -174,15 +174,30 @@ h3 {
 
 h5 {
 	font-size: 20px;
+	color:rgba(48, 173, 99, 1);
 }
 
-#creation-photos table tbody tr td img {
+#marque {
+	font-family:'Montserrat';
+}
+
+#creation-photos-rectangles table tbody tr td img {
 	height: 400px;
 	width: cover;
 	margin: 10px;
 	border:0.1px solid rgba(48, 173, 99, 1);
 	border-radius:10px;
 }
+
+#creation-photos-carres table tbody tr td img {
+	height: cover;
+	width: cover;
+	margin: 10px;
+	border:0.1px solid rgba(48, 173, 99, 1);
+	border-radius:10px;
+}
+
+
 
 #entretien-photos table tbody tr td img {
 	height: 400px;
